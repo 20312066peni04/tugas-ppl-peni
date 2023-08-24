@@ -1,0 +1,4 @@
+Nama	: Peni Sulistia
+Npm	: 20312066
+Kelas	: IF SP
+Prodi	: Informatika
